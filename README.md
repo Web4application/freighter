@@ -5,6 +5,7 @@ Freighter is a non-custodial wallet for the Stellar network, available as a brow
 ## What You Can Build
 
 [What You Can Build](https://stellarwalletskit.dev/installation.html) With Freighter, your dapp can connect a user's wallet with a single call — no signup form, no password, just a familiar wallet popup and an immediate public key. From there you can read their active network, hand off transactions for signing, and submit to the network.
+[stellar-wallets-kit](https://www.npmjs.com/package/@creit.tech/stellar-wallets-kit)
 
 For dapps that integrate with smart contracts, Freighter also handles authorization entry signing for smart contract calls and arbitrary message signing for account verification.
 
